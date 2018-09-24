@@ -1,0 +1,8 @@
+CREATE TABLE `emp` (
+  `id` int(10) NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) DEFAULT NULL,
+  `salary` int(10) DEFAULT NULL,
+  `firstName` varchar(255) DEFAULT NULL,
+  `lastName` varchar(255) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;

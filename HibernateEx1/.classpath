@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_171"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/hibernate-annotations-3.2.0.ga.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/hibernate-commons-annotations-3.2.0.final.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/jboss-cache-1.4.1.GA.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/jbosscache-core-3.1.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/mysql-connector-java-5.0.8-bin.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/oscache-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/proxool-0.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry kind="lib" path="C:/KBS_WORK/MY_WORKSPACE/hibernate_examples/HibernateEx1/lib/swarmcache-1.0RC2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

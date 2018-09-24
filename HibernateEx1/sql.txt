@@ -1,0 +1,7 @@
+CREATE TABLE `emp` (
+  `id` int(10) DEFAULT NULL,
+  `name` varchar(100) DEFAULT NULL,
+  `salary` int(10) DEFAULT NULL,
+  `firstName` varchar(255) DEFAULT NULL,
+  `lastName` varchar(255) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
